@@ -1,0 +1,5 @@
+sampling_interval: 60
+scale_up_threshold: 0.75
+scale_down_threshold: 0.30
+min_instances: 1
+max_instances: 10
